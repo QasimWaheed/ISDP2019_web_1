@@ -1,0 +1,46 @@
+h1{font-size:80px;
+   font-family:Jameel Noori Nastaleeq;
+   text-align:center;
+   Color:#006400;
+  	 
+}
+
+body {
+	
+	dir:rtl;
+	Color:#006400;
+}
+ 
+.div {
+	border-width:3px;
+	border-style:solid;
+	}
+p {
+font-size: 25px;
+}
+
+
+table {
+	border-color:#696969;
+	text-align:center;
+	}
+.border {
+	border-width:2px;
+	border: 1px solid #dddddd;
+	}
+
+td, tr {
+	text-align:center;
+	padding: 8px;
+	}
+.tr  {
+	font-family:Jameel Noori Nastaleeq;
+	font-size:20px;
+	color:#006400;
+	background-color:#BDB76B;
+	}
+.td	{
+	font-size:20px;
+	font-family:Jameel Noori Nastaleeq;
+	}
+ 
