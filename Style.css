@@ -1,14 +1,31 @@
-h1{font-size:80px;
+
+div {
+  line-height: normal;
+
+}
+h1{font-size:50px;
    font-family:Jameel Noori Nastaleeq;
    text-align:center;
-   Color:#006400;
+   Color:white;
+  	 
+}
+
+.font{
+   font-size:20px;
+  	 
+}
+
+h2{
+   font-family:Jameel Noori Nastaleeq;
+   text-align:center;
+   Color:white;
   	 
 }
 
 body {
-	
+		background-color:#2F4F4F;
 	dir:rtl;
-	Color:#006400;
+	Color:white;
 }
  
 .div {
@@ -17,6 +34,8 @@ body {
 	}
 p {
 font-size: 25px;
+   text-align:justify;
+
 }
 
 
@@ -33,6 +52,7 @@ td, tr {
 	text-align:center;
 	padding: 8px;
 	}
+
 .tr  {
 	font-family:Jameel Noori Nastaleeq;
 	font-size:20px;
@@ -43,4 +63,13 @@ td, tr {
 	font-size:20px;
 	font-family:Jameel Noori Nastaleeq;
 	}
- 
+ .a {
+text-align:center;
+font-size: 25px;
+}
+
+.b {
+background-color:#2F4F4F;
+
+text-align:center;
+}
